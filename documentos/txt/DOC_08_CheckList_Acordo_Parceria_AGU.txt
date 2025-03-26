@@ -1,0 +1,101 @@
+﻿SERVIÇO PÚBLICO FEDERAL
+Ministério da Educação
+Instituto Federal de Alagoas
+Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação
+
+
+
+
+Check-list
+ ACORDO DE PARCERIA PARA PESQUISA, DESENVOLVIMENTO E INOVAÇÃO
+
+
+NUP:          
+Acordo de Parceria é o instrumento jurídico envolvendo instituições públicas e privadas para realização de atividades conjuntas de pesquisa científica e tecnológica e de desenvolvimento de tecnologia, produto, serviço ou processo para inovação (Artigo 9º da Lei nº 10.973/04)
+Também pode ser utilizado quando houver transferência de recursos financeiros do parceiro privado para o público, facultada a intermediação por Fundação de Apoio (§§ 6º e 7º do Artigo 35 do Decreto nº 9.283/18).
+Base Legal: 9º da Lei nº 10.973/04 e artigos 35 a 37 do Decreto nº 9.283/2018.
+
+
+#
+	Item
+	1
+	* Nota/Parecer Técnico da área competente da ICT/Agência de Fomento, que apresente o mérito administrativo, com aprovação da autoridade superior (CONFORME REGULAMENTAÇÃO INTERNA)
+	2
+	* Declaração de disponibilidade orçamentária emitida pelo ordenador da despesa, com a respectiva discriminação detalhada e atestando a adequação com a Lei Orçamentária Anual (LOA) e compatibilidade com a Lei de Diretrizes Orçamentárias (LDO) e, quando couber, com o Plano Plurianual (PPA) - (Lei Complementar nº 101/2000 – LRF - art. 16, e Decreto-lei n° 200/67 – art. 73) – quando houver participação de recurso financeiro do ente público no projeto de pesquisa.
+	3
+	* Minuta do Acordo de Parceria* (Arts. 35 a 37 do Decreto nº 9.283/2018)
+*Caso haja alteração da minuta-padrão disponibilizada pela Procuradoria Federal, o órgão competente da ICT/Agência de Fomento deverá apontar na minuta encaminhada para análise quais itens foram inseridos, modificados ou excluídos e apresentar as justificativas na nota técnica
+	4
+	*       Plano de Trabalho com os seguintes itens: (Arts. 35 § 1º do Decreto nº 9.283/2018)
+1. - a descrição das atividades conjuntas a serem executadas, de maneira a assegurar discricionariedade aos parceiros para exercer as atividades com vistas ao atingimento dos resultados pretendidos;
+2. - a estipulação das metas a serem atingidas e os prazos previstos para execução, além dos parâmetros a serem utilizados para a aferição do cumprimento das metas, considerados os riscos inerentes aos projetos de pesquisa, desenvolvimento e inovação;
+3. - a descrição dos meios a serem empregados pelos parceiros; e 
+4. - a previsão da concessão de bolsas, quando couber
+	5
+	* Caso haja necessidade de afastamento de servidor do País, observar as normas específicas atinentes à matéria
+	DOCUMENTOS A SEREM OBTIDOS JUNTO AO PARCEIRO PRIVADO
+	6
+	* Documento social da entidade parceira (ato constitutivo, estatuto ou contrato social em vigor)
+	7
+	* Cópia dos documentos do Responsável Legal pela Entidade – pessoa que irá assinar o Acordo (RG, CPF e Comprovante de Residência + Ata de Nomeação/Procuração, Termo de Posse ou documento que demonstre a legitimidade para assinar o Acordo)
+	8
+	* Comprovante de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ
+	9
+	* Declaração de que no quadro social da entidade não há integrante que tenha Conflito de Interesse, nos termos da Lei nº 12.813/13
+	10
+	* Cópia de documento que comprove que a entidade funciona no endereço por ela declarado, como conta de consumo ou contrato de locação
+	DOCUMENTOS A SEREM OBTIDOS JUNTO À FUNDAÇÃO DE APOIO
+(nos casos em que há interveniência da Fundação de Apoio)
+	11
+	* Ato de constituição/ habilitação jurídica (art. 28, Lei nº 8.666/1993). Estatuto social da Fundação de Apoio, comprovando finalidade não lucrativa e de ser incumbida, regimental ou estatutariamente, da pesquisa, do ensino ou do desenvolvimento institucional, científico e tecnológico;
+	12
+	* Documentos do Responsável Legal da FUNDAÇÃO DE APOIO – pessoa que irá assinar o Termo (RG, CPF e Comprovante de Residência + Ata de Nomeação, Termo de Posse ou documento correlato)
+	13
+	* Registro e credenciamento junto ao MEC/MCTI e autorização para apoiar, em sendo o caso (art. 4º, §2º, Decreto nº 7.423/2010, art. 4º, I, Portaria Interministerial MEC/MCTI nº 191, de 13 de março de 2012 e art. 2º, III, Lei nº 8.958/1994)
+	14
+	* Justificativa para a contratação (caso exista mais que uma Fundação)
+	15
+	* Proposta da Fundação de Apoio, demonstrando os seus serviços de apoio, contendo, inclusive, a planilha demonstrativa dos seus custos operacionais incorridos na execução de suas atividades.
+	16
+	* Declaração de reputação ético-profissional (art. 24, XIII, Lei nº 8.666/93) e de capacidade técnica-financeira para bem executar o objeto contratado.
+	17
+	* Comprovação da regularidade fiscal e trabalhista (art. 29, Lei nº 8.666/1993)
+	18
+	* Consulta aos sistemas de penalidades – CEIS, CNJ e TCU
+	19
+	* Consulta ao CADIN (art. 6º, Lei nº 10.522/2002)
+	
+
+OBS 1: CABE À ÁREA COMPETENTE DA ICT/AGÊNCIA DE FOMENTO OBSERVAR SE, ALÉM DOS DOCUMENTOS ACIMA LISTADOS, HÁ OUTROS NECESSÁRIOS À INSTRUÇÃO PROCESSUAL.
+(Esses documentos dependem de cada caso e da regulamentação interna da instituição).
+
+
+OBS 2: A AUSÊNCIA DE QUALQUER DOS DOCUMENTOS LISTADOS NO CHECK-LIST DEVERÁ SER JUSTIFICADA PELA ÁREA COMPETENTE DA ICT/AGÊNCIA DE FOMENTO.
+
+
+
+
+
+
+SETOR RESPONSÁVEL:
+	Núcleo de Inovação Tecnológica
+	E-MAIL:
+	nit@ifal.edu.br 
+	INTERESSADO:
+	Proponente de Acordo PDI
+	DATA DE CRIAÇÃO:
+	15/06/2023
+	ÚLTIMA ATUALIZAÇÃO:
+	16/10/2024
+	ELABORADO POR:
+	Marcos Charles Pinheiro Baltazar
+	ATUALIZADO POR:
+	Maria Cavalcante
+	
+
+
+
+
+
+Rua Dr. Odilon Vasconcelos, 103, Jatiúca – Maceió/AL. CEP: 57035-350.
+Telefone: (82) 3194-1199. www2.ifal.edu.br

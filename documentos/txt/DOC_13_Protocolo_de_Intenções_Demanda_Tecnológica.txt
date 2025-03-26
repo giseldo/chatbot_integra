@@ -1,0 +1,215 @@
+﻿SERVIÇO PÚBLICO FEDERAL
+Ministério da Educação
+Instituto Federal de Alagoas
+Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação
+
+
+
+
+PROTOCOLO DE INTENÇÕES
+
+
+Instruções para preenchimento
+1. O texto na COR PRETA devem permanecer neste documento;
+2. O texto na COR AZUL pode ser ajustado de acordo com a necessidade/interesse;
+3. Após concluir a redação deste parecer técnico, alterar a cor para preto em todo o texto;
+4. Excluir este texto de instruções
+
+
+
+
+
+
+PROTOCOLO DE INTENÇÕES QUE ENTRE SI CELEBRAM O INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS, E A XXXXXX, VISANDO A COOPERAÇÃO RECÍPROCA EM ATIVIDADES TÉCNICAS E CIENTÍFICAS. 
+
+
+
+
+O INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS, autarquia pública federal inscrita no CNPJ sob o nº 10.825.373/0001-55 com a sede na Rua Odilon de Vasconcelos, n.º 103, Jatiúca - Maceió- AL, doravante denominada IFAL, neste ato representado pelo coordenador do Núcleo de Inovação Tecnológica (NIT), Marcos Charles Pinheiro Baltazar, matrícula SIAPE 2359463, e de outro lado XXXXXXXXXX, inscrita no CNPJ sob n° XX.XXX.XXX/XXXX-XX, com sede na XXXXX, neste ato legalmente representada pelo(a) XXXXXX concordam em celebrar o seguinte Protocolo de Intenções, mediante as seguintes cláusulas:
+1. CLÁUSULA PRIMEIRA – DO OBJETO
+
+
+1.1  —  O IFAL e a XXXXX, por este instrumento e na melhor forma de direito, estabelecerão cooperação técnica e científica, de caráter mútuo, nas áreas de suas especializações, não implicando, porém, neste momento em criação de obrigações legais para quaisquer das partes signatárias.
+	1.2  — As Instituições buscarão recursos humanos e financeiros para a realização das atividades previstas neste Protocolo.
+	1.3  — As atividades objeto do presente Protocolo de Intenções deverão ser disciplinadas, em todos os seus aspectos, pelas normas estatutárias e regimentais do IFAL  e XXXXXX.
+	
+
+   2. CLÁUSULA SEGUNDA – DA FORMA DE COOPERAÇÃO
+* As atividades decorrentes deste instrumento serão desenvolvidas através de Programas e/ou Projetos conjuntos e operacionalizadas através de Convênios, Acordos de Parceria ou Contratos específicos, firmados pelos partícipes.
+	* Os Programas e/ou Projetos poderão ser desenvolvidos com o aproveitamento simultâneo dos quadros de pessoal da XXXXXX e do IFAL, bem como com a utilização de dependências e instalações das respectivas instituições, desde que sem prejuízo do desempenho de suas atividades normais.
+	* Os Convênios, Acordos de Parceria ou Contratos, necessariamente, detalharam as responsabilidades específicas das partes em cada Programa ou Projeto.
+	* Havendo a contrapartida de recursos financeiros, cada programa ou projeto deverá conter as especificações detalhadas dos compromissos financeiros das partes, visto que o presente Protocolo não implica nenhum compromisso financeiro para as Instituições signatárias.
+	* Caso o programa ou projeto for suscetível de gerar resultados econômicos, deverá ser estabelecida a participação das Instituições signatárias.
+	
+
+2. CLÁUSULA TERCEIRA – DA VIGÊNCIA
+* O prazo de vigência do presente instrumento será de xx(xxxxxx) anos/meses, contados a partir da data de sua assinatura, podendo ser renovado e/ou alterado mediante lavratura de Termo Aditivo.
+	
+
+3. CLÁUSULA QUARTA – GESTORES
+* As partes indicarão um gestor de cada instituição quando da assinatura de Acordo de Cooperação ou Convênio específico. Os gestores serão responsáveis por planejar e coordenar os programas ou projetos de cooperação futura e caberá aos gestores e ao Núcleo de Inovação Tecnológica (NIT) do IFAL acompanhar e avaliar as atividades executadas.
+	
+
+
+
+
+
+
+
+
+
+4. CLÁUSULA QUINTA – DO FORO
+* O presente Protocolo de Intenções reger-se-á pelas leis brasileiras. As partes elegem o foro da Justiça Federal, Seção Judiciária de Maceió/AL, para dirimir quaisquer dúvidas ou controvérsias oriundas deste instrumento que não puderem ser decididas pela via administrativa, renunciando, desde já, a qualquer outro por mais privilegiado que seja.
+	
+
+5. CLÁUSULA SEXTA – DAS DISPOSIÇÕES GERAIS
+   * Para a implementação deste Protocolo de Intenções, a XXX estará representada pelo XXX, CPF XXX, e o Instituto Federal de Educação, Ciência e Tecnologia de Alagoas, pelo professor XXX, CPF XXX.
+   * Assim, por estarem justos e acordados, as partes por seus representantes legais, assinam o presente instrumento em 3 (três) vias, de igual forma e teor, na presença das testemunhas abaixo.
+
+
+                                           Cidade/UF, dia de mês de ano. 
+
+
+
+
+Pelo(a) ICT/Contratada:
+Nome do responsável pela área técnica:
+Cargo: 
+
+
+Pelo(s) Contratante: 
+Nome do responsável:
+cargo: 
+
+
+Pela Fundação de Apoio: 
+Nome do responsável:
+Cargo:
+
+
+ 
+Testemunhas: 
+_____________________________                          _____________________________
+Nome:                                                                       Nome:
+CPF:                                                                         CPF:
+________________
+ANEXO
+DEMANDA TECNOLÓGICA
+CARACTERÍSTICA DA EMPRESA
+	Nome Fantasia e Razão social
+	
+
+	CNPJ
+	
+
+	Endereço
+	
+
+	Área de Atuação (CNAE Principal)
+	
+
+	Quantidade de funcionários
+	
+
+	Atuação geográfica
+	* Local;
+* Estadual;
+* Regional;
+* Nacional;
+* Internacional;
+* Outros: 
+	________________
+
+
+
+
+Como o Ifal pode contribuir com sua empresa/organização? (Pode marcar mais de uma opção)
+	* Superar uma dificuldade de produção ou de prestação de serviços da empresa;
+* Superar uma dificuldade de produção ou de prestação de serviços do mercado;
+* Gerar novo processo de gestão (Logística, Marketing, etc) na empresa;
+* Identificar/prospectar/conhecer técnicas, processos e/ou tecnologias superiores às praticadas na empresa e/ou mercado;
+* Desenvolver novo produto e/ou serviço;
+* Aplicar conhecimentos já existentes no mercado ou na academia na empresa;
+* Promover capacitação de colaboradores;
+* Prestação de serviços pelos laboratórios, equipamentos ou softwares do Ifal;
+	Quantos projetos se interessa desenvolver conosco?
+	
+
+	Já realizou algum tipo de parceria científica ou tecnológica com outra instituição antes? Se sim, fale um pouco sobre a experiência.
+	
+
+	A sua empresa investe em Pesquisa, Desenvolvimento e Inovação (PD&I)?
+	
+
+	Já possui alguma propriedade industrial (Marca, patente, software ou desenho industrial) concedido ou solicitado? Se sim, informe quais.
+	
+
+	
+
+CARACTERÍSTICAS DO PROJETO 1
+	Título do Projeto
+	[Crie um nome para o projeto]
+	Descreva o problema ou oportunidade identificada com características técnicas
+	[Caracterize bem o problema/situação com detalhes suficientes para que um profissional da área possa compreender e/ou reproduzir somente com as informações aqui descritas.  Use dados precisos como temperatura, volume, tempo, etc.
+No caso de equipamento, informe o fabricante, modelo, marca, etc. 
+No caso de software, informe as características como fabricante, nome, versão, módulo, etc.
+No caso de insumos/materiais, informe o fabricante, propriedades químicas/físicas, quantidades, materiais.]
+
+
+	Descreva a solução que deseja para o problema ou para a oportunidade identificada
+	[Descreva a situação que almeja ser alcançada com detalhes suficientes para que um profissional da área possa elaborar um projeto
+Esta informação será necessária para que o pesquisador identifique as ferramentas/conhecimentos/técnicas necessárias para alcançar o resultado que almeja.]
+	Palavras-chave do projeto
+	[Coloque as cinco palavras mais importantes que facilite a busca de profissional especializado na área do projeto]
+	Informe a área específica do conhecimento necessário
+	[Qual formação é necessária para compreender seu projeto]
+	Informe as restrições de tempo do projeto.
+	[Exemplo: deve ser desenvolvido em até 18 meses]
+	Informe até quanto considera viável investir neste projeto.
+	[Exemplo: posso investir até R$ 250.000]
+	Conhece alguma solução no mercado para seu problema?
+	No caso de equipamento, informe o fabricante, modelo, marca, etc. 
+No caso de software, informe as características como fabricante, nome, versão, módulo, etc.
+No caso de insumos/materiais, informe o fabricante, propriedades químicas/físicas, quantidades, materiais.]
+	Pretende utilizar laboratórios ou equipamentos disponíveis no Ifal ou a sua empresa dispõe de toda infraestrutura necessária?
+	[Detalhe os equipamentos / instrumentos / insumos necessários para o desenvolvimento do projeto]
+	Já realizou alguma parceria tecnológica ou científica com outra instituição antes para resolver este problema?
+	
+
+	
+
+CARACTERÍSTICAS DO PROJETO 2
+	Título do Projeto
+	[Crie um nome para o projeto]
+	Descreva o problema ou oportunidade identificada com características técnicas
+	[Caracterize bem o problema/situação com detalhes suficientes para que um profissional da área possa compreender e/ou reproduzir somente com as informações aqui descritas.  Use dados precisos como temperatura, volume, tempo, etc.
+No caso de equipamento, informe o fabricante, modelo, marca, etc. 
+No caso de software, informe as características como fabricante, nome, versão, módulo, etc.
+No caso de insumos/materiais, informe o fabricante, propriedades químicas/físicas, quantidades, materiais.]
+	Descreva a solução que deseja para o problema ou para a oportunidade identificada
+	[Descreva a situação que almeja ser alcançada com detalhes suficientes para que um profissional da área possa elaborar um projeto
+Esta informação será necessária para que o pesquisador identifique as ferramentas/conhecimentos/técnicas necessárias para alcançar o resultado que almeja.]
+	Palavras-chave do projeto
+	[Coloque as cinco palavras mais importantes que facilite a busca de profissional especializado na área do projeto]
+	Informe a área específica do conhecimento necessário
+	[Qual formação é necessária para compreender seu projeto]
+	Informe as restrições de tempo do projeto.
+	[Exemplo: deve ser desenvolvido em até 18 meses]
+	Informe até quanto considera viável investir neste projeto.
+	[Exemplo: posso investir até R$ 250.000]
+	Conhece alguma solução no mercado para seu problema?
+	No caso de equipamento, informe o fabricante, modelo, marca, etc. 
+No caso de software, informe as características como fabricante, nome, versão, módulo, etc.
+No caso de insumos/materiais, informe o fabricante, propriedades químicas/físicas, quantidades, materiais.]
+	Pretende utilizar laboratórios ou equipamentos disponíveis no Ifal ou a sua empresa dispõe de toda infraestrutura necessária?
+	
+
+	Já realizou alguma parceria tecnológica ou científica com outra instituição antes para resolver este problema?
+	
+
+	
+
+
+
+Rua Dr. Odilon Vasconcelos, 103, Jatiúca – Maceió/AL. CEP: 57035-350.
+Telefone: (82) 3194-1178/27. www2.ifal.edu.br

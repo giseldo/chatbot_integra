@@ -1,0 +1,129 @@
+﻿SERVIÇO PÚBLICO FEDERAL
+Ministério da Educação
+Instituto Federal de Alagoas
+Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação
+ORIENTAÇÕES PARA CADASTRAR UM PLANO DE TRABALHO NO PORTAL INTEGRA
+Instruções para preenchimento
+1. O texto na COR PRETA devem permanecer neste documento;
+2. O texto na COR AZUL pode ser ajustado de acordo com a necessidade/interesse;
+3. Após concluir a redação deste parecer técnico, alterar a cor para preto em todo o texto;
+4. Excluir este texto de instruções
+
+
+O Plano de Trabalho é o instrumento que delimita as atividades, metas, meios e previsão de bolsa. Ele deverá ser elaborado durante a negociação entre os parceiros. O plano de trabalho constará como anexo do instrumento jurídico[1].
+Quando realizar o cadastro do Plano de Trabalho?  Após cadastrar a organização parceira no Portal Integra no link a seguir: [Cadastro de Organizações].
+Um exemplo de Plano de Trabalho é descrito a seguir.
+
+
+Objetivo Geral: Desenvolver e implementar um programa de educação ambiental na Escola XYZ que promova a conscientização sobre questões ambientais e incentive práticas sustentáveis entre os alunos, professores e funcionários.
+Objetivos Específicos
+
+
+1. (Objetivo Específico 01) Desenvolver o currículo de educação ambiental: Elaborar um currículo abrangente de educação ambiental que atenda aos padrões educacionais e seja adequado a diferentes faixas etárias.
+	2. (Objetivo Específico 02) Treinar os professores: Realizar workshops de capacitação para os professores a fim de prepará-los para ministrar aulas de educação ambiental de forma eficaz.
+	3. (Objetivo Específico 03) Criar material didático: Desenvolver materiais didáticos interativos, como apresentações em PowerPoint, atividades em sala de aula e recursos online, para apoiar as aulas de educação ambiental.
+	4. (Objetivo Específico 04) Estabelecer um comitê de sustentabilidade: Formar um comitê de sustentabilidade composto por alunos, professores e funcionários para liderar iniciativas e monitorar o progresso do programa.
+	5. (Objetivo Específico 05) Organizar eventos e campanhas: Planejar e executar eventos sazonais e campanhas de conscientização, como a Semana da Sustentabilidade e a coleta seletiva de resíduos.
+	
+
+Metas Alinhadas aos 05 (cinco) Objetivos Específicos:
+
+
+1. (Meta 01 para o Objetivo Específico 01): Desenvolver o currículo de educação ambiental até o final do primeiro trimestre do ano letivo. Indicador (aferição de cumprimento de meta): currículo enviado por e-mail a pedagogia;
+	2. (Meta 02 para o Objetivo Específico 02): Conduzir três workshops de capacitação para os professores até o final do segundo trimestre. Indicador (aferição de cumprimento de meta): fotos do evento;
+	3. (Meta 03 para o Objetivo Específico 03): Criar e disponibilizar online os materiais didáticos até o início do terceiro trimestre. Indicador (aferição de cumprimento de meta): 
+	4. (Meta 04 para o Objetivo Específico 04: Estabelecer um comitê de sustentabilidade com pelo menos 10 membros até o final do primeiro trimestre.Indicador (aferição de cumprimento de meta): portaria do comitê de sustentabilidade;
+	5. (Meta 05 para o Objetivo Específico 05): Realizar a Semana da Sustentabilidade no segundo trimestre. Indicador (aferição de cumprimento de meta): fotos do evento; lista de inscritos;
+	6. (Meta 06 para o Objetivo Específico 05): implementar a coleta seletiva de resíduos até o final do ano letivo. Indicador (aferição de cumprimento de meta): fotos dos coletores de resíduos.
+	
+
+1. Cadastro do objeto a ser executado
+Figura 1 - Campo para cadastro do objeto
+  
+
+É essencial a identificação clara dos problemas a serem pesquisados e/ou resolvidos, assim como a expressão dos interesses de todas as partes envolvidas na condução e conclusão do projeto de parceria em questão. Além disso, é de suma importância apresentar os princípios orientadores e as oportunidades que motivam tanto o IFAL, por meio do Campus onde o projeto será executado, quanto a instituição parceira, a estabelecerem este acordo.
+2. Cadastro do objetivo geral
+Figura 2 - Campo para cadastro do objetivo geral
+  
+
+
+
+O objetivo geral é o elemento que sintetiza e representa o núcleo do projeto a ser executado por meio da parceria pleiteada. Portanto, é essencial descrever de forma adequada o objetivo geral, incluindo a finalidade da parceria, bem como seu escopo e suas limitações, identificando com clareza quais são os limites.
+
+
+3. Cadastro dos objetivos específicos
+
+
+Figura 3 - Campo para cadastro dos objetivos específicos
+  
+
+Os objetivos específicos são como os degraus de uma escada que nos levam ao topo do objetivo geral durante o período de execução da parceria. É importante evitar sobrecarregá-los; apenas inclua os necessários para alcançar o objetivo geral. 
+Os objetivos específicos estão diretamente ligados ao objetivo geral, pois eles descrevem os passos e processos fundamentais para chegar lá. Em outras palavras, os objetivos específicos funcionam como um mapa para guiar através do conteúdo a ser abordado e desenvolvido na parceria. Eles devem mergulhar mais profundamente nas ideias do objeto a ser executado, conectando os problemas norteadores da parceria com suas particularidades e delineando claramente os resultados desejados.
+
+
+4. Cadastro das metas
+Figura 4 - Campo para cadastro das metas
+
+
+  
+
+
+
+Metas são os resultados mensuráveis e quantificáveis que as partes envolvidas no acordo estabelecem para guiar o progresso e o sucesso da parceria. Elas representam os resultados tangíveis que ambas as instituições se comprometem a alcançar ao colaborarem em projetos ou iniciativas conjuntas. 
+Essas metas devem ser específicas, mensuráveis, alcançáveis, temporalidade (data) e alinhadas aos objetivos específicos da parceria, permitindo que todas as partes acompanhem e avaliem o desempenho e o cumprimento das metas ao longo do tempo. A mensuração garante que não haja dúvidas no atingimento da meta.
+
+
+
+
+
+
+5. Cadastro das atividades
+
+
+Figura 5 - Campo para cadastro das atividades
+
+
+  
+
+Para a execução e alcance dos resultados almejados do acordo de parceria é necessário realizar o cadastro das atividades a serem realizadas. Neste contexto, é importante detalhar as atividades que cada participante do acordo de parceria irá desenvolver, incluindo a possibilidade de listar as responsabilidades dos indicados pelas instituições parceiras. 
+6. Cadastro do Plano de Aplicação dos Recursos
+Quando existir repasse de recursos financeiros, deve-se assinalar esse item o Portal Integra quando do cadastramento do Plano de Trabalho.
+Figura 7 - Campo para assinalar repasse de recursos financeiros
+  
+Conforme informado no Portal Integra, deve-se realizar a inserção das informações financeiras na aba Detalhes no campo Contrapartida Financeira.
+Figura 8 - Campo para cadastro das contrapartidas
+  
+
+Importante esclarecer alguns conceitos apresentados na figura acima, quais sejam:
+
+
+1. Contrapartida Financeira:
+
+
+1. Natureza: A contrapartida financeira é estritamente monetária. Envolve o fornecimento direto de recursos financeiros, como dinheiro, financiamento, doações ou subsídios, de uma parte para outra em uma parceria ou acordo.
+	2. Escopo: Geralmente, a contrapartida financeira se concentra em transações monetárias diretas, onde uma parte fornece fundos à outra em troca de serviços, produtos, benefícios específicos ou para atender a um propósito acordado.  
+	
+
+Contrapartida Econômica:
+
+
+1. Natureza: A contrapartida econômica é mais ampla e abrange uma variedade de benefícios econômicos, não se limitando apenas a transações financeiras. Isso pode incluir ações, recursos, ativos, serviços, colaboração, investimento em infraestrutura, empregos gerados, aumento da produção, desenvolvimento de habilidades e muito mais. Podendo ser inclusive a utilização de infraestrutura de pesquisa já existente, por exemplo: conjunto de laboratórios, salas de reuniões entre outras possibilidades.
+	2. Escopo: A contrapartida econômica se estende além do aspecto financeiro e considera o impacto econômico global de uma parceria ou acordo. Pode incluir medidas para melhorar a economia local, desenvolver competências, criar oportunidades de negócios, investir em pesquisa e inovação, entre outros. Nesta seção deve ser informado se haverá bolsas de pesquisa como contrapartida  por exemplo: “10 bolsas de R$ 2.500,00 para o pesquisador; 5 bolsas de pesquisa para o bolsista 1”;
+	
+
+Em resumo, enquanto a contrapartida financeira se refere principalmente a transações monetárias diretas, a contrapartida econômica engloba uma gama mais ampla de benefícios e contribuições econômicas que podem não envolver apenas dinheiro, mas também recursos, serviços, ativos e impactos mais amplos no desenvolvimento econômico. Ambos os conceitos são importantes em parcerias e acordos, mas suas naturezas e escopos são distintos.
+
+
+No Plano de Aplicação dos Recursos, é essencial fornecer informações detalhadas sobre como os recursos financeiros serão utilizados. Isso inclui, por exemplo, esclarecer se haverá pagamento de bolsas para estudantes e servidores, especificando a periodicidade, a quantidade de bolsas e o valor de cada uma delas. Além disso, deve ser indicado quem será o responsável pelo pagamento das bolsas.
+
+
+Se for necessário adquirir materiais de consumo, reagentes para laboratórios, equipamentos eletrônicos ou de tecnologia da informação, é importante listar e descrever detalhadamente esses itens, além de especificar como e por quem a aquisição será realizada. Convém esclarecer que tal orientação também é válida para contratação de serviços de terceiros.
+
+
+Rua Dr. Odilon Vasconcelos, 103, Jatiúca – Maceió/AL. CEP: 57035-350.
+Telefone: (82) 3194-1199. www2.ifal.edu.br
+
+
+	 de 7
+________________
+[1] https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9283.htm
