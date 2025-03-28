@@ -37,30 +37,34 @@ def assistant_response(message, history, thread_id=None):
         )
         time.sleep(1)
 
-    # Recuperar as mensagens mais recentes
     messages = openai.beta.threads.messages.list(thread_id=thread_id)
-
-    messages
-
-    # A resposta mais recente do assistant
     assistant_message = messages.data[0].content[0].text.value
-
     return assistant_message, thread_id
 
 css = """
 footer {display: none !important;}
+.centered-text {
+    text-align: center;
+}
 """
 
+example_conversation = [
+    {"text": "Os convênios de PD&I podem envolver instituições privadas?"},
+    {"text": "Onde posso encontrar o regulamento do curso de Engenharia de Software?"},
+    {"text": "Quem é o reitor do IFAL?"}
+]
+
 with gr.Blocks(title="Assistente para o IFAL", css=css, theme=seafoam) as iface:
-    gr.Markdown("# Este assistente foi treinado para responder perguntas sobre os documentos do Integra do IFAL.")
-    chatbot = gr.Chatbot(height=400,  label="Chatbot")
+    gr.Markdown("# Converse com os dados do Integra.")
+    chatbot = gr.Chatbot(height=400,  label="Chatbot", examples=example_conversation)
     textbox = gr.Textbox(placeholder="Digite sua mensagem aqui...", label="Usuário")
     state = gr.State(None)
     clear_button = gr.Button("Limpar Conversa")
-    gr.Markdown("Criado por Giseldo Neo.")
+    
+    gr.Markdown("<div class='centered-text'>Criado por Giseldo Neo.</div>") 
     def respond(message, chat_history, thread_id=None):
         if thread_id is None:
-            thread_id = state.value  # Tenta usar o thread_id do estado, se existir
+            thread_id = state.value
             if thread_id is None:
                 thread = openai.beta.threads.create()
                 thread_id = thread.id
